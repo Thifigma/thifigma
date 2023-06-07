@@ -1,7 +1,6 @@
 ### Olá! Meu nome é Thiago 👋
 
-Teste
-🔭 I’m currently working on ...
+🎓 Informática Biomédica na <link href="https://web.inf.ufpr.br/infobiomedica/" title="Universidade Federal do Paraná">
 
 <!--
 **Thifigma/thifigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
