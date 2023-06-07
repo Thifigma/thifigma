@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá! Meu nome é Thiago 👋
+
+Teste
+🔭 I’m currently working on ...
 
 <!--
 **Thifigma/thifigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
