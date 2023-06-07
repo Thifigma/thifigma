@@ -1,14 +1,14 @@
 ### Olá! Meu nome é Thiago 👋🏾
 
-<br> 🧑🏾‍🎓 Informática Biomédica na <a href="https://web.inf.ufpr.br/infobiomedica/"> Universidade Federal do Paraná </a> </br>
-🌱 Eu ainda estou aprendendo
-🌎 Curitiba, Paraná
+🧑🏾‍🎓 Informática Biomédica na <a href="https://web.inf.ufpr.br/infobiomedica/"> Universidade Federal do Paraná </a> <br>
+🌱 Eu ainda estou aprendendo <br>
+🌎 Curitiba, Paraná <br>
 
 ### Interesses
 
-🧬 Bioinformática
-🔌 Sistemas de Informação em Saúde
-<!--
+🧬 Bioinformática <br>
+🔌 Sistemas de Informação em Saúde <br>
+ <!--
 **Thifigma/thifigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
