@@ -12,9 +12,9 @@
 
 ## Contato
 
-Email: thiago.maarcos@gmail.com <br>
-Lattes: <a href="http://lattes.cnpq.br/3364254476901774"> lattes.cnpq.br/thiago </a> <br>
-Linkedin  <a href="https://www.linkedin.com/in/thiagofig/"> linkedin.com.br/thiagofig </a> <br>
+Email:  thiago.maarcos@gmail.com <br>
+Lattes:  <a href="http://lattes.cnpq.br/3364254476901774"> lattes.cnpq.br/thiago </a> <br>
+Linkedin:  <a href="https://www.linkedin.com/in/thiagofig/"> linkedin.com.br/thiagofig </a> <br>
 
  <!--
 **Thifigma/thifigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
