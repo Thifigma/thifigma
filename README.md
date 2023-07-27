@@ -8,6 +8,7 @@
 ### Interesses
 
 🧬 Bioinformática <br>
+🧾 Sistemas de Informação em Saúde <br>
 
 
 ## Contato
