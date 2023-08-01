@@ -1,8 +1,7 @@
 # Olá! Meu nome é Thiago 👋🏾
 
 
-🧑🏾‍🎓 Informática Biomédica na <a href="https://web.inf.ufpr.br/infobiomedica/"> Universidade Federal do Paraná </a> <br>
-🌱 Eu ainda estou aprendendo <br>
+🏾‍🎓 Informática Biomédica na <a href="https://web.inf.ufpr.br/infobiomedica/"> Universidade Federal do Paraná </a> <br>
 🌎 Curitiba, Paraná <br>
 
 ### Interesses
