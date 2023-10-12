@@ -6,9 +6,8 @@
 
 ### Interesses
 
-🧬 Bioinformática <br>
-🌐 Saúde Digital <br>
-
+🌐  Saúde Digital <br>
+🗂  Gestão de projetos <br>
 
 ## Contato
 
