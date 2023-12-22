@@ -11,7 +11,7 @@
 
 ## Contato
 
-Email:  thiago.maarcos@gmail.com <br>
+Email:  thiago.figueiredo@ufpr.com <br>
 Lattes:  <a href="http://lattes.cnpq.br/3364254476901774"> lattes.cnpq.br/thiago </a> <br>
 Linkedin:  <a href="https://www.linkedin.com/in/thiagofig/"> linkedin.com.br/thiagofig </a> <br>
 
