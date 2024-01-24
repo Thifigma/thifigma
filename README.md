@@ -7,7 +7,6 @@
 ### Interesses
 
 🌐  Saúde Digital <br>
-🗂  Gestão de projetos <br>
 
 ## Contato
 
